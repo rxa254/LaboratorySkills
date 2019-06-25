@@ -1,4 +1,5 @@
-# LaboratorySkills
+Laboratory Skills
+==================
 General Lab Skills for Experimental Physics
 
 #. The Perils of Dimensional Analysis
