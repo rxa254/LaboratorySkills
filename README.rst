@@ -3,6 +3,7 @@ Laboratory Skills
 General Lab Skills for Experimental Physics
 
 #. The Perils of Dimensional Analysis
+  - What is T at the surface of last scattering? It is not kT = 13.6 eV
 #. Soldering
 #. Noise Analysis of Electronic Circuits
   - Johnson noise in resistors
